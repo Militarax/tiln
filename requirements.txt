@@ -1,0 +1,5 @@
+tensorflow==2.4.1
+gensim==3.8.3
+simplemma==0.3.0
+numpy==1.19.5
+Pillow==7.2.0
